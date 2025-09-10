@@ -26,12 +26,12 @@ Tampilan responsive dan ringan
 
 Clone repo ini
 
-git clone https://github.com/username/weather-app.git
+git clone https://github.com/LatiefAkbar/api-cuaca.git
 
 
 Masuk ke folder project
 
-cd weather-app
+cd api-cuaca
 
 
 Pindahkan project ke dalam folder htdocs (jika pakai XAMPP/Laragon).
@@ -40,7 +40,7 @@ Jalankan server lokal (contoh XAMPP → start Apache).
 
 Buka di browser:
 
-http://localhost/weather-app
+http://localhost/api-cuaca
 
 🔑 Konfigurasi API Key
 
@@ -76,4 +76,5 @@ Ajukan pull request
 MIT License © 2025 Latif Akbar Maulana
 
 🔥 Proyek ini dibuat sebagai latihan dasar API.
+
 Silakan fork, kembangkan, atau tambahkan fitur baru seperti forecast 5 hari ke depan ⛅ atau integrasi dengan geolocation browser 📍.
